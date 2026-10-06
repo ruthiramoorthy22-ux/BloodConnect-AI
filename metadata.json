@@ -1,0 +1,8 @@
+{
+  "name": "BloodConnect AI",
+  "description": "AI-Based Smart Blood Donor, Hospital Locator & Emergency Blood Management System connecting donors, patients, and hospitals with real-time stock and AI matching.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
